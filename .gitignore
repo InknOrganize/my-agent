@@ -1,0 +1,22 @@
+# Claude Code session files
+.claude/scheduled_tasks.lock
+.claude/projects/
+
+# Backtalk runtime state and venv
+backtalk/.venv/
+backtalk/logs/
+backtalk/.voice_reply_done
+backtalk/.voice_state
+backtalk/.voice_waveform
+backtalk/backtalk.egg-info/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Subtool repos (cloned separately -- see README)
+backtalk/
+ai-visualizer/
+ai-marketing-skills/
+ai-memory-vault/
+fullstack-agent/
