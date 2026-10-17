@@ -1,8 +1,8 @@
 # Boot Config
 
-This is the pinned boot file, kept in your working folder (not the vault). It loads automatically at the start of every Claude Code session and survives context compaction; VAULT-INDEX.md may not, so identity and the rules that can't lapse live here. The full operating manual is VAULT-INDEX.md at the vault root — read it at startup. The vault is at `C:\Users\Ampere\Jarvis`.
+This is the pinned boot file, kept in your working folder (not the vault). It loads automatically at the start of every Claude Code session and survives context compaction; VAULT-INDEX.md may not, so identity and the rules that can't lapse live here. The full operating manual is VAULT-INDEX.md at the vault root — read it at startup. The vault is at `C:\Users\Ryan_\Jarvis`.
 
-This folder (`C:\Users\Ampere\my-agent`) is where the agent lives.
+This folder (`C:\Users\Ryan_\my-agent`) is where the agent lives.
 
 ## Identity
 

@@ -10,6 +10,16 @@ backtalk/.voice_state
 backtalk/.voice_waveform
 backtalk/backtalk.egg-info/
 
+# Credentials and secrets
+starnet-tools/credentials/
+*.key
+*.token
+*.secret
+
+# Python cache
+__pycache__/
+*.pyc
+
 # OS noise
 .DS_Store
 Thumbs.db
